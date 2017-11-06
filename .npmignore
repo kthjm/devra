@@ -1,0 +1,7 @@
+src/
+test/
+flow-typed/
+.flowconfig
+.gitignore
+.travis.yml
+yarn.lock
