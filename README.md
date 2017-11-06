@@ -1,8 +1,7 @@
 # devra
+> WIP for publish
 
-## WIP for publish
-
-[![styled with prettier]()]()
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Build Status]()]()
 [![Coverage Status]()]()
 
